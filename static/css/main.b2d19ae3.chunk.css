@@ -1,0 +1,2 @@
+.App{text-align:center}body{background-color:#e0f8ff}ul{padding:0}.list{display:grid;grid-template-columns:repeat(4,300px);grid-gap:35px;justify-content:center;list-style-type:none}.list__userInfo{border:3px solid #51b9ff;background-color:#f7f6f6;border-radius:20px}.title{font-size:20px}.body{font-size:16px}.address,.author,.email{font-size:14px;font-weight:700}.comment{font-size:13px;background-color:#dfdfdf;list-style-type:none;border-radius:20px}
+/*# sourceMappingURL=main.b2d19ae3.chunk.css.map */
